@@ -1,4 +1,9 @@
-FILES
+Raspberry Motion Cam
+====================
+Personal project to create a IP Camera using RPI and a Wifi Dongle. It also automatically uploads the videos to a google drive account.
+
+
+Files
 =====
 uploader.cfg:
 		Fill your gmail data
@@ -17,8 +22,8 @@ motion-mmalcam.cfg:
 records folder:
 		Store the videos (will delete them after uploading)
 		
-INSTALL
-=======
+Usage
+=====
 1) Execute
 		$ sudo chmod +x script_ip.py
 
